@@ -64,7 +64,7 @@ pima-diabetes-risk-analysis/
 
 | Boxplots by Outcome | Correlation Matrix |
 |---------------------|--------------------|
-| ![Boxplot](report/boxplot_sample.png) | ![Correlation](report/corrplot_sample.png) |
+| ![Boxplot](report/boxplot_sample.png) | ![Correlation](report/corrplot.png) |
 
 ---
 
