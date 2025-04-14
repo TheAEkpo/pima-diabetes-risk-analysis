@@ -36,7 +36,7 @@ pima-diabetes-risk-analysis/
   - Diabetes Pedigree Function
   - Age
 
-> Dataset source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes)
+> [Dataset](report/diabetes.csv)
 ---
 
 ## 🔍 Key Questions Explored
