@@ -78,7 +78,7 @@ pima-diabetes-risk-analysis/
 ---
 
 ## 📘 Report
-- Full academic write-up in `report/final_report.pdf`
+- Full academic write-up in (report/final_report.pdf)
 - Includes methodology, statistical test results, model summaries, and conclusions
 
 ---
