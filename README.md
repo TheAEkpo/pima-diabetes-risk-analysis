@@ -36,7 +36,7 @@ pima-diabetes-risk-analysis/
   - Diabetes Pedigree Function
   - Age
 
-> [Dataset](report/diabetes.csv)
+> [Dataset](data/diabetes.csv)
 ---
 
 ## 🔍 Key Questions Explored
