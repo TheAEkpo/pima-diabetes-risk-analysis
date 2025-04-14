@@ -9,12 +9,20 @@ This analysis was originally completed as part of my MSc in Data Science at Nott
 ---
 
 ## 📁 Project Structure
-pima-diabetes-risk-analysis/ 
-├── data/ │ └── diabetes.csv # Source dataset 
-├── scripts/ │ └── pima_analysis.R # Main R script with all analysis 
-├── report/ │ └── final_report.pdf # Full project report from MSc 
-├── README.md # You're reading it!
----
+pima-diabetes-risk-analysis/
+│
+├── data/
+│   └── diabetes.csv              ← Source dataset
+│
+├── scripts/
+│   └── pima_analysis.R           ← Main R Scripts with all analysis
+│
+├── report/
+│   └── final_report.pdf          ← Full report from Msc
+│
+├── README.md                     ← You're reading it!
+
+
 
 ## 📊 Dataset Description
 - **Population:** 768 women of Pima Indian heritage (age ≥ 21)
